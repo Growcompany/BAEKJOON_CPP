@@ -15,6 +15,7 @@
         "cstring": "cpp",
         "iosfwd": "cpp",
         "sstream": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "cstdlib": "cpp"
     }
 }
