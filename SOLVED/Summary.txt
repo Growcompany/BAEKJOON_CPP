@@ -1,0 +1,6 @@
+// 소수점출력하기
+cout << fixed;
+cout.precision(1);
+cout<<num;
+
+// 
