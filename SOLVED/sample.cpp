@@ -5,9 +5,9 @@
 using namespace std;
 
 int main(){
-	int n;
+	int N;
 
-	cin>>n;
+	cin>>N;
 
 	return 0;
 }
